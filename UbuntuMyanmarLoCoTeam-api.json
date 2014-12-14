@@ -1,0 +1,31 @@
+{
+  "name": "Ubuntu Myanmar LoCo Team",
+  "url": "http://www.ubuntu-mm.net/",
+  "location": {
+    "city": "Burma",
+    "country": "MM",
+    "lat": 22,
+    "lon": 96
+  },
+  "contact": {
+    "irc": "irc://www.freenode.net/#ubuntu-mm",
+    "ml": "ubuntu-l10n-my@lists.launchpad.net",
+    "facebook": "https://www.facebook.com/UbuntuMM"
+  },
+  "timeline": [
+    {
+      "description": "Founded",
+      "timestamp": "2011-04-25"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "wiki",
+      "url": "http://wiki.ubuntu.com/MyanmarTeam"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-14T22:28:41.218Z"
+  },
+  "api": "1.0.0"
+}
