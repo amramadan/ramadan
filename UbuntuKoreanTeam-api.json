@@ -1,6 +1,6 @@
 {
   "name": "Ubuntu Korean Team",
-  "url": "http://loco.ubuntu.com/teams/ubuntu-ko/",
+  "url": "http://ubuntu-kr.org/",
   "location": {
     "city": "South korea",
     "country": "KR",
@@ -40,9 +40,9 @@
       "url": "https://wiki.ubuntu.com/KoreanTeam"
     },
     {
-      "name": "Official Website and Forum",
-      "category": "forum",
-      "url": "http://ubuntu-kr.org/"
+      "name": "Summary",
+      "category": "others",
+      "url": "http://loco.ubuntu.com/teams/ubuntu-ko/"
     }
   ],
   "state": {
