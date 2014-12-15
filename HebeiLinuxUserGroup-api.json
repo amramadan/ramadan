@@ -16,7 +16,7 @@
       "name": "weibo",
       "category": "blog",
       "url": "http://weibo.com/heblug"
-      
+      "name": "others",
       "type" : "rss",
       "url": "https://heblug.disqus.com/latest.rss"
     }
