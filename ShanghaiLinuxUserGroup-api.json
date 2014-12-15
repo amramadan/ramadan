@@ -19,6 +19,13 @@
       "timestamp": "1997-1-1"
     }
   ],
+   "feeds": [
+    {
+      "category": "others",
+      "type" : "rss"
+      "url": "https://groups.google.com/forum/feed/shlug/topics/rss_v2_0.xml?num=20"
+    }
+  ],
   "state": {
     "lastchange": "2014-12-15T08:24:42.749Z"
   },
