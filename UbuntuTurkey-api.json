@@ -1,0 +1,34 @@
+{
+  "name": "Ubuntu Turkey",
+  "url": "http://www.ubuntu-tr.net/",
+  "location": {
+    "city": "Western Asia",
+    "country": "TR",
+    "lat": 39.9167,
+    "lon": 32.8333
+  },
+  "contact": {
+    "irc": "irc://freenode.net/#ubuntu-tr"
+  },
+  "timeline": [
+    {
+      "description": "founded",
+      "timestamp": "2006-12-14",
+      "url": "https://launchpad.net/~ubuntu-tr"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "forum",
+      "url": "http://forum.ubuntu-tr.net"
+    },
+    {
+      "category": "wiki",
+      "url": "http://wiki.ubuntu-tr.net"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-19T16:52:35.888Z"
+  },
+  "api": "1.0.0"
+}
