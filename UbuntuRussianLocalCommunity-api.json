@@ -1,0 +1,40 @@
+{
+  "name": "Ubuntu Russian Local Community",
+  "url": "http://ubuntu.ru/",
+  "location": {
+    "city": "Central Asia",
+    "country": "RU",
+    "lat": 60,
+    "lon": 90
+  },
+  "contact": {
+    "email": "ubuntu-ru@lists.ubuntu.com",
+    "jabber": "loco@conference.ubuntu.ru",
+    "irc": "irc://freenode.net/#ubuntu-ru",
+    "ml": "https://lists.ubuntu.com/mailman/listinfo/ubuntu-ru",
+    "facebook": "https://www.facebook.com/groups/ubuntu.ru/",
+    "twitter": "@ubuntu_ru_loco",
+    "googleplus": "https://plus.google.com/u/0/+ubuntu-ru/posts"
+  },
+  "timeline": [
+    {
+      "description": "Created on",
+      "timestamp": "2009-03-24",
+      "url": "https://launchpad.net/~ubuntu-ru"
+    }
+  ],
+  "feeds": [
+    {
+      "category": "forum",
+      "url": "https://launchpad.net/~ubuntu-ru"
+    },
+    {
+      "category": "wiki",
+      "url": "https://wiki.ubuntu.com/RussianTeam"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-21T23:12:44.780Z"
+  },
+  "api": "1.0.0"
+}
