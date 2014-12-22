@@ -23,11 +23,8 @@
   "feeds": [
     {
       "category": "blog",
+      "type": "rss",
       "url": "http://blog.mozilla-nepal.org/feed/"
-    },
-    {
-      "category": "wiki",
-      "url": "http://wiki.mozilla-nepal.org/index.php/Main_Page"
     }
   ],
   "state": {
