@@ -1,0 +1,29 @@
+{
+  "name": "FOSSC Oman",
+  "url": "http://fossc.om/2015/",
+  "location": {
+    "city": " Muscat",
+    "country": "OM",
+    "lat": 23.6,
+    "lon": 58.55,
+    "address": {
+      "Name": "Sultan Qaboos University",
+      "Street": "123 Muscat"
+    }
+  },
+  "contact": {
+    "phone": "+96824143696",
+    "facebook": "https://www.facebook.com/fossc.oman/info?tab=page_info"
+  },
+  "timeline": [
+    {
+      "description": "Founded on",
+      "timestamp": "2013-02-18",
+      "url": "https://www.facebook.com/fossc.oman/info?tab=page_info"
+    }
+  ],
+  "state": {
+    "lastchange": "2014-12-22T14:25:54.627Z"
+  },
+  "api": "1.0.0"
+}
