@@ -23,7 +23,7 @@
   "feeds": [
     {
       "category": "blog",
-      "url": "http://blog.mozilla-nepal.org/"
+      "url": "http://blog.mozilla-nepal.org/feed/"
     },
     {
       "category": "wiki",
