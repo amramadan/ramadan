@@ -23,15 +23,12 @@
   "feeds": [
     {
       "category": "blog",
-      "url": "http://blog.mozilla-nepal.org/"
-    },
-    {
-      "category": "wiki",
-      "url": "http://wiki.mozilla-nepal.org/index.php/Main_Page"
+      "type": "rss",
+      "url": "\"http://blog.mozilla-nepal.org/feed/"
     }
   ],
   "state": {
-    "lastchange": "2014-12-22T14:54:44.677Z"
+    "lastchange": "2014-12-22T20:14:04.507Z"
   },
   "api": "1.0.0"
 }
