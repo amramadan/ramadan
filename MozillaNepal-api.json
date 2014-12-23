@@ -26,6 +26,12 @@
       "category": "blog",
       "type": "rss",
       "url": "http://blog.mozilla-nepal.org/feed/"
+    },
+    {
+      "category": "blog",
+      "type": "rss",
+      "url": "http://blog.mozilla-nepal.org/comments/feed/"
+    }
     }
   ],
   "state": {
