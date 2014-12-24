@@ -14,19 +14,11 @@
     "facebook": "https://www.facebook.com/FOSSnp/info?tab=overview",
     "twitter": "@fossnp"
   },
-  "timeline": [
-    {
+  "timeline":{
       "description": "started on",
       "timestamp": "2005-09-29",
       "url": "https://www.facebook.com/FOSSnp/info?tab=page_info"
     }
-  ],
-  "feeds": [
-    {
-      "category": "forum",
-      "url": "https://groups.google.com/forum/#!forum/foss-nepal"
-    }
-  ],
   "state": {
     "lastchange": "2014-12-23T23:03:12.593Z"
   },
