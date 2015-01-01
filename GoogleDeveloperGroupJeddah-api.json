@@ -1,0 +1,28 @@
+{
+  "name": "Google Developer Group Jeddah",
+  "url": "http://jeddah.gtugs.org/",
+  "location": {
+    "city": "Jeddah",
+    "country": "SA",
+    "lat": 24,
+    "lon": 45
+  },
+  "contact": {
+    "email": "taher@gtugs.org",
+    "facebook": "https://www.facebook.com/pages/GTUG-Jeddah-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA-%D8%AC%D9%88%D9%88%D8%AC%D9%84-%D8%A8%D8%AC%D8%AF%D8%A9/116168618471247",
+    "twitter": "@GDGJeddah",
+    "googleplus": "https://plus.google.com/b/107457519240973887317/107457519240973887317/posts"
+  },
+  "state": {
+    "logo": "https://510aa694-a-906ce31e-s-sites.googlegroups.com/a/gtugs.org/jeddah/home/GDGJeddahlogo.PNG?attachauth=ANoY7crN5e4xrDuuRXNZeXviWMReNefBsFrqfXVs_ZH-pfOs16CBo6_T53BVpBXUTcV8-kc2RRH6I8y92vhEzwrxLsPkRzLDCt3EFH1aSsuZD1eohFjraQLmpn84IT07DF3KCYwiRhipkHohuMNN4oZszJkKxK8O_dlJp7kOBIuu14vpRunYJSWlsTSBqGPoBj46i5MlXBg2OpM4iWbHG7nE--yaigE2iQ%3D%3D&attredirects=0",
+    "lastchange": "2015-01-01T13:37:15.590Z"
+  },
+  "timeline": [
+    {
+      "description": "created on",
+      "timestamp": "2011-03-11",
+      "url": "https://twitter.com/gdgjeddah"
+    }
+  ],
+  "api": "1.0.1"
+}
